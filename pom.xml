@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>8</java.version>
-		<apache.httpclient.version>4.5.12</apache.httpclient.version>
+		<apache.httpclient.version>4.5.13</apache.httpclient.version>
 	</properties>
 
 	<dependencies>
